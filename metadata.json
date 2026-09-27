@@ -1,0 +1,6 @@
+{
+  "name": "Shafaf Marriage Bureau",
+  "description": "Shafaf Marriage Bureau provides trusted Muslim rishta & marriage services in Rahim Yar Khan, across Punjab, and overseas. Contact Mian Sajid today.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
