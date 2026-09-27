@@ -1,0 +1,9 @@
+# robots.txt for Shafaf Marriage Bureau
+# Allow all search engine crawlers full access to the static single-page site
+User-agent: *
+Allow: /
+
+# Sitemap Location
+# NOTE FOR DEPLOYMENT: Replace YOUR_FINAL_GITHUB_PAGES_URL with your actual live GitHub Pages URL
+# Example: https://username.github.io/repository-name/sitemap.xml
+Sitemap: YOUR_FINAL_GITHUB_PAGES_URL/sitemap.xml

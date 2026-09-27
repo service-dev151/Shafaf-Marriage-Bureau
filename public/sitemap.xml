@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap for Shafaf Marriage Bureau (Single-Page Matrimonial Website)
+  INSTRUCTION: Replace YOUR_FINAL_GITHUB_PAGES_URL with your actual live GitHub Pages URL after deployment.
+  Example: https://username.github.io/shafaf-marriage-bureau/
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>YOUR_FINAL_GITHUB_PAGES_URL/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
